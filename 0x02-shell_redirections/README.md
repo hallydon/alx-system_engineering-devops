@@ -6,3 +6,4 @@
 (5)Display the first 10 lines of /etc/passwd
 (6)Display the third line of the file iacta
 (7)file that containing the text Best 'School' ending by a new line.
+(8)the result of the command ls -la
